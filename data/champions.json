@@ -1,0 +1,331 @@
+{
+    "keys": {
+        "1": "Annie",
+        "2": "Olaf",
+        "3": "Galio",
+        "4": "TwistedFate",
+        "5": "XinZhao",
+        "6": "Urgot",
+        "7": "Leblanc",
+        "8": "Vladimir",
+        "9": "Fiddlesticks",
+        "10": "Kayle",
+        "11": "MasterYi",
+        "12": "Alistar",
+        "13": "Ryze",
+        "14": "Sion",
+        "15": "Sivir",
+        "16": "Soraka",
+        "17": "Teemo",
+        "18": "Tristana",
+        "19": "Warwick",
+        "20": "Nunu",
+        "21": "MissFortune",
+        "22": "Ashe",
+        "23": "Tryndamere",
+        "24": "Jax",
+        "25": "Morgana",
+        "26": "Zilean",
+        "27": "Singed",
+        "28": "Evelynn",
+        "29": "Twitch",
+        "30": "Karthus",
+        "31": "Chogath",
+        "32": "Amumu",
+        "33": "Rammus",
+        "34": "Anivia",
+        "35": "Shaco",
+        "36": "DrMundo",
+        "37": "Sona",
+        "38": "Kassadin",
+        "39": "Irelia",
+        "40": "Janna",
+        "41": "Gangplank",
+        "42": "Corki",
+        "43": "Karma",
+        "44": "Taric",
+        "45": "Veigar",
+        "48": "Trundle",
+        "50": "Swain",
+        "51": "Caitlyn",
+        "53": "Blitzcrank",
+        "54": "Malphite",
+        "55": "Katarina",
+        "56": "Nocturne",
+        "57": "Maokai",
+        "58": "Renekton",
+        "59": "JarvanIV",
+        "60": "Elise",
+        "61": "Orianna",
+        "62": "MonkeyKing",
+        "63": "Brand",
+        "64": "LeeSin",
+        "67": "Vayne",
+        "68": "Rumble",
+        "69": "Cassiopeia",
+        "72": "Skarner",
+        "74": "Heimerdinger",
+        "75": "Nasus", 
+        "76": "Nidalee",
+        "77": "Udyr",
+        "78": "Poppy",
+        "79": "Gragas",
+        "80": "Pantheon",
+        "81": "Ezreal",
+        "82": "Mordekaiser",
+        "83": "Yorick",
+        "84": "Akali",
+        "85": "Kennen",
+        "86": "Garen",
+        "89": "Leona",
+        "90": "Malzahar",
+        "91": "Talon",
+        "92": "Riven",
+        "96": "KogMaw",
+        "98": "Shen",
+        "99": "Lux",
+        "101": "Xerath",
+        "102": "Shyvana",
+        "103": "Ahri",
+        "104": "Graves",
+        "105": "Fizz",
+        "106": "Volibear",
+        "107": "Rengar",
+        "110": "Varus",
+        "111": "Nautilus",
+        "112": "Viktor",
+        "113": "Sejuani",
+        "114": "Fiora",
+        "115": "Ziggs",
+        "117": "Lulu",
+        "119": "Draven",
+        "120": "Hecarim",
+        "121": "Khazix",
+        "122": "Darius",
+        "126": "Jayce",
+        "127": "Lissandra",
+        "131": "Diana",
+        "133": "Quinn",
+        "134": "Syndra",
+        "136": "AurelionSol",
+        "141": "Kayn",
+        "142": "Zoe",
+        "143": "Zyra",
+        "150": "Gnar",
+        "154": "Zac",
+        "157": "Yasuo",
+        "161": "Velkoz",
+        "163": "Taliyah",
+        "164": "Camille",
+        "201": "Braum",
+        "202": "Jhin",
+        "203": "Kindred",
+        "222": "Jinx",
+        "223": "TahmKench",
+        "236": "Lucian",
+        "238": "Zed",
+        "240": "Kled",
+        "245": "Ekko",
+        "254": "Vi",
+        "266": "Aatrox",
+        "267": "Nami",
+        "268": "Azir",
+        "412": "Thresh",
+        "420": "Illaoi",
+        "421": "RekSai",
+        "427": "Ivern",
+        "429": "Kalista",
+        "432": "Bard",
+        "497": "Rakan",
+        "498": "Xayah",
+        "516": "Ornn"
+    },
+    "type": "champion",
+    "version": "8.3.1",
+    "data": {
+        "MonkeyKing": {
+            "info": {
+                "difficulty": 3,
+                "attack": 8,
+                "defense": 5,
+                "magic": 2
+            },
+            "enemytips": [
+                "- 오공은 자주 근두운 급습을 사용한 다음 분신술을 사용합니다. 잠시 기다렸다가 오공 본체를 확인한 다음 스킬을 사용하십시오.",
+                "- 오공은 적에게 둘러싸여 있을 때 더 강해집니다. 먼저 고립시킨 다음 처치할 기회를 노리세요."
+            ],
+            "stats": {
+                "armorperlevel": 3.5,
+                "attackdamage": 68,
+                "mpperlevel": 38,
+                "attackspeedoffset": -0.05,
+                "mp": 265.84,
+                "armor": 34,
+                "hp": 577.8,
+                "hpregenperlevel": 0.65,
+                "attackspeedperlevel": 3,
+                "attackrange": 175,
+                "movespeed": 345,
+                "attackdamageperlevel": 3.2,
+                "mpregenperlevel": 0.65,
+                "critperlevel": 0,
+                "spellblockperlevel": 1.25,
+                "crit": 0,
+                "mpregen": 8.042,
+                "spellblock": 32.1,
+                "hpregen": 6,
+                "hpperlevel": 85
+            },
+            "name": "오공",
+            "title": "원숭이 왕",
+            "image": {
+                "full": "MonkeyKing.png",
+                "group": "champion",
+                "sprite": "champion2.png",
+                "h": 48,
+                "w": 48,
+                "y": 48,
+                "x": 48
+            },
+            "tags": [
+                "Fighter",
+                "Tank"
+            ],
+            "partype": "마나",
+            "skins": [
+                {
+                    "num": 0,
+                    "id": 62000,
+                    "name": "default"
+                },
+                {
+                    "num": 1,
+                    "id": 62001,
+                    "name": "불원숭이 오공"
+                },
+                {
+                    "num": 2,
+                    "id": 62002,
+                    "name": "제천대성 오공"
+                },
+                {
+                    "num": 3,
+                    "id": 62003,
+                    "name": "수룡 오공"
+                },
+                {
+                    "num": 4,
+                    "id": 62004,
+                    "name": "언더월드 오공"
+                },
+                {
+                    "num": 5,
+                    "id": 62005,
+                    "name": "찬란한 오공"
+                }
+            ],
+            "passive": {
+                "image": {
+                    "full": "MonkeyKingStoneSkin.png",
+                    "group": "passive",
+                    "sprite": "passive2.png",
+                    "h": 48,
+                    "w": 48,
+                    "y": 48,
+                    "x": 48
+                },
+                "sanitizedDescription": "근처에 있는 적 챔피언의 수에 따라 오공의 방어력과 마법 저항력이 증가합니다.",
+                "name": "바위 피부",
+                "description": "근처에 있는 적 챔피언의 수에 따라 오공의 방어력과 마법 저항력이 증가합니다."
+            },
+            "recommended": [
+                {
+                    "map": "SR",
+                    "blocks": [
+                        {
+                            "items": [
+                                {
+                                    "count": 1,
+                                    "id": 1055
+                                }
+                            ],
+                            "recMath": false,
+                            "type": "beginner_starter"
+                        },
+                        {
+                            "items": [
+                                {
+                                    "count": 1,
+                                    "id": 1055
+                                },
+                                {
+                                    "count": 1,
+                                    "id": 2003
+                                }
+                            ],
+                            "recMath": false,
+                            "type": "beginner_starter"
+                        },
+                        {
+                            "items": [
+                                {
+                                    "count": 1,
+                                    "id": 1028
+                                },
+                                {
+                                    "count": 1,
+                                    "id": 1036
+                                },
+                                {
+                                    "count": 1,
+                                    "id": 3044
+                                }
+                            ],
+                            "recMath": true,
+                            "type": "beginner_advanced"
+                        },
+                        {
+                            "items": [
+                                {
+                                    "count": 1,
+                                    "id": 1001
+                                },
+                                {
+                                    "count": 1,
+                                    "id": 1033
+                                },
+                                {
+                                    "count": 1,
+                                    "id": 3111
+                                }
+                            ],
+                            "recMath": true,
+                            "type": "beginner_movementspeed"
+                        },
+                        {
+                            "items": [
+                                {
+                                    "count": 1,
+                                    "id": 3044
+                                },
+                                {
+                                    "count": 1,
+                                    "id": 3133
+                                },
+                                {
+                                    "count": 1,
+                                    "id": 3071
+                                }
+                            ],
+                            "recMath": true,
+                            "type": "beginner_legendaryitem"
+                        },
+                        {
+                            "items": [
+                                {
+                                    "count": 1,
+                                    "id": 3078
+                                },
+                                {
+                                    "count": 1,
+                                    "id…
